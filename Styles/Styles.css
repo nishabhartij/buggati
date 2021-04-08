@@ -1,0 +1,38 @@
+
+html
+{
+	scroll-behavior:smooth;
+}
+body
+{
+	background:linear-gradient(45deg,orange,white,green);
+	text-align:center;
+	font-family:'comic sans ms',sans-serif;
+}
+#links a
+{
+	text-decoration:none;
+	font-size:20px;
+	margin:20px;
+}
+h2
+{
+	background:linear-gradient(45deg,green,magenta,blue);
+	color:white;
+	width:80%;
+	margin:0px auto;
+	padding:13px;
+	border-radius:60px 60px 0px 0px;
+	border-bottom:7px solid white;
+	box-shadow:0 0 10px blue;
+}
+table
+{
+	width:100%;
+}
+img
+{
+	border-radius:20px;
+	box-shadow:0 0 10px blue;
+	padding:5px;
+}
